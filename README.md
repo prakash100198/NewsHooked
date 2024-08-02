@@ -1,5 +1,5 @@
 # NewsHooked
-NewsHooked is an interactive android application developed using Kotlin using MVVM architecture.
+NewsHooked is an interactive android application developed using Kotlin with MVVM architecture.
 
 ## What is MVVM Architecture?
 MVVM architecture is a Model-View-ViewModel architecture that removes the tight coupling between each component. Most importantly, in this architecture, the children don't have the direct reference to the parent, they only have the reference by observables.
